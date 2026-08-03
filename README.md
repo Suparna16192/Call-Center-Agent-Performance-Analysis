@@ -45,6 +45,11 @@ Power Query
 
 7.Diane had the lowest answer rate (79.15%), lowest resolution rate (71.41%), and lowest customer satisfaction score (2.70). However, Diane also had the fastest average speed of answer at approximately 273 seconds. 
 
+## PowerBi Dashboard
+
+<img width="1297" height="707" alt="image" src="https://github.com/user-attachments/assets/21ba45e7-f6ae-407f-afed-fca20a57e801" />
+
+
 ## Author
 Suparna Guha — [LinkedIn] -- https://www.linkedin.com/in/suparna-guha-22220119b/ [GitHub] -- https://github.com/Suparna16192
 

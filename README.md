@@ -46,6 +46,8 @@ Power Query
 7.Diane had the lowest answer rate (79.15%), lowest resolution rate (71.41%), and lowest customer satisfaction score (2.70). However, Diane also had the fastest average speed of answer at approximately 273 seconds. 
 
 ##Recommendations Summary
+
+
 Increase agent availability around 1:00 PM, the busiest call period.
 Investigate the 18.92% unanswered calls by hour and topic.
 Review unresolved Technical Support cases and improve technical resources.
@@ -61,6 +63,8 @@ Track call volume over a longer period to improve staffing forecasts.
 
 
 ## Author
-Suparna Guha — [LinkedIn] -- https://www.linkedin.com/in/suparna-guha-22220119b/ [GitHub] -- https://github.com/Suparna16192
+
+Suparna Guha — [LinkedIn] -- https://www.linkedin.com/in/suparna-guha-22220119b/ 
+[GitHub] -- https://github.com/Suparna16192
 
 
